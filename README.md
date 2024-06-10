@@ -2,6 +2,8 @@
 
 Step by step guide to get start with react-native project
 
+- Flow this [youtube paylist](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhiQJD1di4eRVN30WWCXkg1)
+
 # Initializie project
 
 **Setup the project**
@@ -17,7 +19,7 @@ npx create-expo-app@latest
 
 > Note: **Floder sturcture** > [Create-expo-app floder structure](./assests/create-expo-app-floder.png)
 
-- **Without Framework**
+- **Without Framework** [React native official website](https://reactnative.dev/docs/getting-started-without-a-framework)
 
 Direct using simple **react-native-community/cli templete**
 
@@ -27,7 +29,7 @@ npx @react-native-community/cli@latest init <project-name>
 
 > Note: **Floder sturcture** > [react-native-community Floder structure](./assests/react-native-community-floder.png)
 
-- **With create-react-native templete**
+- **With create-react-native templete** [GitHub repo link](https://github.com/expo/create-react-native-app)
 
 ```sh
 npx create-react-native-app
@@ -65,7 +67,7 @@ a
 
 ![create expo app error](./assests/create-expo-app-error.png)
 
-To change the developement buid **Press s**
+To change the developement buid **Press s** [stackoverflow link](https://stackoverflow.com/questions/73384324/the-development-client-com-reactnative02-for-this-project-is-not-installed-pl)
 
 ```sh
 s
