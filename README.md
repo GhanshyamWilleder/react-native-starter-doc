@@ -4,6 +4,10 @@ Step by step guide to get start with react-native project
 
 - Flow this [youtube paylist](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhiQJD1di4eRVN30WWCXkg1)
 
+# Table of Contents
+1. [Index](README.md)
+2. [Style](./Style.md)
+
 # Initializie project
 
 **Setup the project**
