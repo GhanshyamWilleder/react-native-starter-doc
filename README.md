@@ -81,4 +81,6 @@ Solution given in this [Stackoverflow](https://stackoverflow.com/questions/78384
 
 You have to lower the gradle version from 8.6 to 8.5. Also if you are using **Yarn** then you may not face this issue
 
-![react-native-community solution](./assests/./react-native-community-solution-1.png)
+![react-native-community solution](./assests/./react-native-community-solution-1.png) 
+
+Next Page Style [Next Page](./Style.md)
